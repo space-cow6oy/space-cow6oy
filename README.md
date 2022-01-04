@@ -47,14 +47,23 @@
        <td><a href="https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl&ab_channel=YuryKashnitsky">link</td>
     </tr>
                 <tr>
-      <td>SQL</td>
+      <td>SQL-stepic</td>
       <td><a href="">certificate</a></td>
         <td><a href="https://stepik.org/course/63054/info">link</td>
     </tr>
+          <td>SQL-ex</td>
+      <td><a href=""></a></td>
+        <td><a href="https://sql-ex.ru/">link</td>
+    </tr>
                 <tr>
       <td>Grokking Algorithms: An Illustrated Guide for Programmers</td>
-      <td><a href="">certificate</a></td>
+      <td><a href=""></a></td>
         <td><a href="https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230">link</td>
+    </tr>
+     <tr>
+      <td>Introduction to Linux</td>
+      <td><a href="">certificate</a></td>
+        <td><a href="https://stepik.org/course/73/promo?search=872570949">link</td>
     </tr>
   </tbody>
 </table>
