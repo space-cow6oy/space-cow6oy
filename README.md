@@ -12,9 +12,26 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-1435aa?style=for-the-badge&logo=Streamlit&)
 ![Machine_learning](https://img.shields.io/badge/-Machine_learning-b51717?style=for-the-badge&logo=Machine_learning&)
 
-### Latest Project
+### My Certificates
+<table>
+  <tbody>
+    <tr>
+      <th>Course</th>
+      <th>Certificate</th>
+    </tr>
+    <tr>
+      <td>Basics of Statistics</td>
+      <td><a href="https://stepik.org/cert/1192229
+">certificate</a></td>
+    </tr>
+    <tr>
+      <td>Math and Python for Data Science</td>
+      <td><a href="https://www.coursera.org/account/accomplishments/certificate/E5L2Z8H9C2N3">certificate</td>
+    </tr>
+  </tbody>
+</table>
 
-### Follow me
+### Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Telegram&)](https://t.me/space_cow6oyy)
 [![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=for-the-badge&logo=Instagram&)](https://www.instagram.com/dam.hay/)
 [![vkontakte](https://img.shields.io/badge/-vk-ffffff?style=for-the-badge&logo=vkontakte&)](https://vk.com/damhay)
