@@ -12,7 +12,7 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-1435aa?style=for-the-badge&logo=Streamlit&)
 ![Machine_learning](https://img.shields.io/badge/-Machine_learning-b51717?style=for-the-badge&logo=Machine_learning&)
 
-### 
+### Completed courses
 <table>
   <tbody>
     <tr>
