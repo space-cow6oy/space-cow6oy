@@ -3,8 +3,12 @@
 
 ## I'm beginner Data Scientist and senior year Student
 
-Latest Project
+### Languages and Tools
 
-Languages and Tools
+![Python](https://img.shields.io/badge/-Python-eea3d5?style=for-the-badge&logo=python)
+
+
+
+Latest Project
 
 Follow me
