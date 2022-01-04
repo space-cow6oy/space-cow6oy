@@ -26,15 +26,15 @@
 ">certificate</a></td>
         <td><a href="https://stepik.org/course/76/info">link</td>
     </tr>
-        <tr>
-      <td>Introduction to data science and machine learning</td>
-      <td><a href="">certificate</a></td>
-        <td><a href="https://stepik.org/course/4852/info">link</td>
-    </tr>
     <tr>
       <td>Math and Python for Data Science</td>
       <td><a href="https://www.coursera.org/account/accomplishments/certificate/E5L2Z8H9C2N3">certificate</td>
        <td><a href="https://www.coursera.org/learn/mathematics-and-python">link</td>
+    </tr>
+            <tr>
+      <td>Introduction to data science and machine learning</td>
+      <td><a href="">certificate</a></td>
+        <td><a href="https://stepik.org/course/4852/info">link</td>
     </tr>
     <tr>
       <td>Hands-On Machine Learning with Scikit-Learn and TensorFlow</td>
@@ -45,6 +45,16 @@
       <td>mlcourse.ai</td>
       <td><a href="https://www.coursera.org/account/accomplishments/certificate/E5L2Z8H9C2N3"></td>
        <td><a href="https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl&ab_channel=YuryKashnitsky">link</td>
+    </tr>
+                <tr>
+      <td>SQL</td>
+      <td><a href="">certificate</a></td>
+        <td><a href="https://stepik.org/course/63054/info">link</td>
+    </tr>
+                <tr>
+      <td>Grokking Algorithms: An Illustrated Guide for Programmers</td>
+      <td><a href="">certificate</a></td>
+        <td><a href="https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230">link</td>
     </tr>
   </tbody>
 </table>
