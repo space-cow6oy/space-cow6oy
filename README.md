@@ -10,8 +10,11 @@
 ![scikit-learn](https://img.shields.io/badge/-scikitlearn-ebff00?style=for-the-badge&logo=scikit-learn)
 ![SQL](https://img.shields.io/badge/-SQL-65f181?style=for-the-badge&logo=SQL&)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-1435aa?style=for-the-badge&logo=Streamlit&)
-![Machine_learning](https://img.shields.io/badge/-Machine_learning-ffffff?style=for-the-badge&logo=Machine_learning&)
+![Machine_learning](https://img.shields.io/badge/-Machine_learning-b51717?style=for-the-badge&logo=Machine_learning&)
 
-Latest Project
+### Latest Project
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Telegram&)](https://t.me/space_cow6oyy)
+[![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=for-the-badge&logo=Instagram&)](https://www.instagram.com/dam.hay/)
+[![vkontakte](https://img.shields.io/badge/-vk-ffffff?style=for-the-badge&logo=vkontakte&)](https://vk.com/damhay)
