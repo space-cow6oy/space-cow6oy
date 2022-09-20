@@ -1,5 +1,5 @@
 <!-- [![Header](https://github.com/space-cow6oy/space-cow6oy/blob/main/assets/niy.gif)](https://github.com/space-cow6oy) -->
-## I'm a beginner Data Scientist and senior year Student
+## I'm a beginner Data Scientist
 
 <img src="https://github.com/space-cow6oy/space-cow6oy/blob/main/assets/cowboy.gif" width="100%">
 
