@@ -7,11 +7,10 @@
  
 ![Python](https://img.shields.io/badge/-Python-eea3d5?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-a1e4ed?style=for-the-badge&logo=pandas&logoColor=ff0000) 
-![scikit-learn](https://img.shields.io/badge/-scikitlearn-ebff00?style=for-the-badge&logo=scikit-learn)
 ![SQL](https://img.shields.io/badge/-SQL-65f181?style=for-the-badge&logo=SQL&)
-![Streamlit](https://img.shields.io/badge/-Streamlit-1435aa?style=for-the-badge&logo=Streamlit&)
-![Machine_learning](https://img.shields.io/badge/-Machine_learning-b51717?style=for-the-badge&logo=Machine_learning&)
-
+![Data Vault](https://img.shields.io/badge/-Data_Vault-b51717?style=for-the-badge&logo=Data_Vault&)
+![GreenPlum](https://img.shields.io/badge/-Greenplum-eea3d5?style=for-the-badge&logo=greenplum)
+![Spark](https://img.shields.io/badge/-Spark-a1e4ed?style=for-the-badge&logo=spark&logoColor=ff0000) 
 ### Completed courses
 <table>
   <tbody>
