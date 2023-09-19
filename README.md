@@ -11,6 +11,8 @@
 ![Data Vault](https://img.shields.io/badge/-Data_Vault-b51717?style=for-the-badge&logo=Data_Vault&)
 ![GreenPlum](https://img.shields.io/badge/-Greenplum-eea3d5?style=for-the-badge&logo=greenplum)
 ![Spark](https://img.shields.io/badge/-Spark-a1e4ed?style=for-the-badge&logo=spark&logoColor=ff0000) 
+
+
 ### Completed courses
 <table>
   <tbody>
@@ -21,8 +23,7 @@
     </tr>
     <tr>
       <td>Basics of Statistics</td>
-      <td><a href="https://stepik.org/cert/1192229
-">certificate</a></td>
+      <td><a href="https://stepik.org/cert/1192229">certificate</a></td>
         <td><a href="https://stepik.org/course/76/info">link</td>
     </tr>
     <tr>
@@ -35,6 +36,8 @@
       <td><a href="https://drive.google.com/file/d/1IUrm2zLm39ET8IQFKtTANtJx6lg1L2kX/view?usp=drive_link">certificate</a></td>
         <td><a href="">link</td>
     </tr>
+</table>
+
 
 
 
